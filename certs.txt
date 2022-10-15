@@ -1,0 +1,25 @@
+  Certs & Badges
+
+1. Python Essentials 1 - Cisco Networking Academy
+
+Verify: https://www.credly.com/badges/e1556cac-cea1-458e-9ea8-0055208d06c7/public_url
+
+2. Python Essentials 2 - Cisco Networking Academy
+
+verify: https://www.credly.com/badges/70bcfc94-9ba0-4f84-b562-539ae974a94f/public_url
+
+3. Introduction to Cyber Security - Cisco Networking Academy 
+
+verify:https://www.credly.com/badges/0e934a1b-fef1-4915-8466-2ff0f118ecea/public_url
+
+4. Networking Basics - Cisco Networking Academy 
+
+verify: https://www.credly.com/badges/96c36cc7-2543-45a9-955a-1e40db2cbb50/public_url
+
+5. Networking Devices and Initial Configuration - Cisco Networking Academy 
+
+verify : https://www.credly.com/badges/e1f5edb7-271c-4e97-8a67-3aaf648834ce/public_url
+
+6. Endpoint Security -Cisco Networking Academy
+
+verify: https://www.credly.com/badges/cada2308-dfc4-49bd-af55-03388ec04a01/public_url
